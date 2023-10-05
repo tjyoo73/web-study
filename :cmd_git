@@ -11,7 +11,14 @@ git push -u origin main
 
 git remote -v
 
+git init
 git add .
 git commit -m '메시지'
+git push -u origin master
+
+git checkout -b 'master'
 git push origin master
+
+token
+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
 
